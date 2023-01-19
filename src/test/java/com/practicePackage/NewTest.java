@@ -14,5 +14,10 @@ public class NewTest {
 	{
 		System.out.println("new test 2");
 	}
+	@Test
+	public void xyz()
+	{
+		System.out.println("xyz");
+	}
 
 }
