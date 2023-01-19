@@ -13,11 +13,14 @@ public class NewTest {
 	public void newTest2()
 	{
 		System.out.println("new test 2");
+		
+		System.out.println("....new test 3....");
 	}
 	@Test
 	public void xyz()
 	{
 		System.out.println("xyz");
 	}
+	
 
 }
