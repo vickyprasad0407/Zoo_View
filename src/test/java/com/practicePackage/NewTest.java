@@ -9,5 +9,10 @@ public class NewTest {
 	{
 		System.out.println("this is a new Test");
 	}
+	@Test
+	public void newTest2()
+	{
+		System.out.println("new test 2");
+	}
 
 }
