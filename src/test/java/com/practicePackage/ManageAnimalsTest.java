@@ -2,7 +2,7 @@ package com.practicePackage;
 
 import org.testng.annotations.Test;
 
-public class ManageAnimals {
+public class ManageAnimalsTest {
 
 	@Test
 	public void manageAnimals()
