@@ -59,7 +59,7 @@
   </dependencies>
   <profiles>
      <profile>
-        <id>smokeTest</id>
+        <id>smoke</id>
           <build>
               <pluginManagement>
       <plugins>
