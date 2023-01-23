@@ -8,7 +8,7 @@
 </groups>
   <test thread-count="5" name="Test" preserve-order="false">
     <classes>
-      <class name="com.practicePackage.UpdateTest"/>
+      <class name="com.practicePackage.Update"/>
       <class name="com.practicePackage.DeleteTest"/>
       <class name="com.practicePackage.CreateTest"/>
     </classes>

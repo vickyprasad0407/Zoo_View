@@ -2,7 +2,7 @@ package com.practicePackage;
 
 import org.testng.annotations.Test;
 
-public class UpdateTest {
+public class Update {
 
 	@Test(groups = "smoke")
 	public void updateTest()
